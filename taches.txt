@@ -1,0 +1,8 @@
+1- Ajouter au dictionnaire (ajouter comme des blocs à part)
+    a - les mois de l'année
+    b- les jours de la semaine
+    c- les nombres en lettre
+    source possible : wikipedia
+2- Description du langage (brève historique)
+3- Hymne nationale en fon
+
